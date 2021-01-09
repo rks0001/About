@@ -7,8 +7,6 @@
 
 ### Connect with me:
 
-[<img align="left" alt="RanjitKalita" width="22px" src="#" />][website]
-[<img align="left" alt="RanjitKalita | YouTube" width="22px" src="#"/>][youtube]
 [<img align="left" alt="RanjitKalita | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="RanjitKalita | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="RanjitKalita | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
